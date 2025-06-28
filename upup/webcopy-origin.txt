@@ -1,0 +1,315 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\scripts\utms\latest-1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/iphone/
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\index.htm
+Content Type: text/html
+
+Uri: https://viva-sortehoje.github.io/iphone/images/Design-sem-nome.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\images\Design-sem-nome.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/iphone/images/IP.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\images\IP.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/iphone/images/IPNHO-IPORDS-3.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\images\IPNHO-IPORDS-3.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/iphone/images/logo.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\images\logo.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/iphone/images/T-TULO-PREMIADO-EM-DOBRO-1.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\images\T-TULO-PREMIADO-EM-DOBRO-1.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/iphone/images/viacap.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\images\viacap.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/iphone/images/viva-hosp.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\images\viva-hosp.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/iphone/js/latest.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\iphone\js\latest.js
+Content Type: application/javascript
+
+tes\viva-sortehoje.github.io\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/?
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\index.htm
+Content Type: text/html
+
+Uri: https://viva-sortehoje.github.io/roleta/css/all.css
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\css\all.css
+Content Type: text/css
+
+Uri: https://viva-sortehoje.github.io/roleta/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://viva-sortehoje.github.io/roleta/css/bootstrap.min_1.css
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\css\bootstrap.min_1.css
+Content Type: text/css
+
+Uri: https://viva-sortehoje.github.io/roleta/css/style.css
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\css\style.css
+Content Type: text/css
+
+Uri: https://viva-sortehoje.github.io/roleta/css/stylead8e.css
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\css\stylead8e.css
+Content Type: text/css
+
+Uri: https://viva-sortehoje.github.io/roleta/css2-5.html
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\css2-5.html
+Content Type: text/html
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular_1.eot
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular_1.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular_1.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular_1.woff
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular_1.woff
+Content Type: font/woff
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/glyphicons-halflings-regular_1.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\glyphicons-halflings-regular_1.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/InterVariable-Italic.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\InterVariable-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/InterVariable.ttf
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\InterVariable.ttf
+Content Type: font/ttf
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZ1rib2Bg-4.woff2
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\fonts\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZ1rib2Bg-4.woff2
+Content Type: font/woff2
+
+Uri: https://viva-sortehoje.github.io/roleta/images/bg-vazio.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\bg-vazio.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/roleta/images/button-gire.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\button-gire.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/roleta/images/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://viva-sortehoje.github.io/roleta/images/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://viva-sortehoje.github.io/roleta/images/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://viva-sortehoje.github.io/roleta/images/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://viva-sortehoje.github.io/roleta/images/glyphicons-halflings-regular_1.svg
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\glyphicons-halflings-regular_1.svg
+Content Type: image/svg+xml
+
+Uri: https://viva-sortehoje.github.io/roleta/images/man6.jpg
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\man6.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-sortehoje.github.io/roleta/images/roletanova.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\roletanova.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/roleta/images/something-lost.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\something-lost.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/roleta/images/star-struck.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\star-struck.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/roleta/images/sweat.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\sweat.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/roleta/images/webclip.png
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\images\webclip.png
+Content Type: image/png
+
+Uri: https://viva-sortehoje.github.io/roleta/js/bilmur.min.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\bilmur.min.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/confetti.browser.min.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\confetti.browser.min.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/e-202429.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\e-202429.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/jetpack-carousel.min.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\jetpack-carousel.min.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/jquery-3.0.0.slim.min.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\jquery-3.0.0.slim.min.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/jstools.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\jstools.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/latest.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\latest.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/js/tiled-gallery.min.js
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\js\tiled-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://viva-sortehoje.github.io/roleta/media/roleta.mp3
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\media\roleta.mp3
+Content Type: audio/mp3
+
+Uri: https://viva-sortehoje.github.io/roleta/responda.html
+File Name: C:\Downloaded Web Sites\viva-sortehoje.github.io\roleta\responda.html
+Content Type: text/html
+
