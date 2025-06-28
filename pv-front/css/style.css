@@ -651,14 +651,16 @@ IMG.logo-rodape {
 }
 
 .topo {
-    background-color: #2f4eb5 !important;
+    background-color: #ffffff !important;
     padding: 1rem !important;
     margin-bottom: 1.2rem !important;
 }
 
 .topo img {
-    width: 150px !important;
-    max-width: 50% !important;
+    width: 350px !important;
+    max-width: 60% !important;
+    display: block;
+    margin: 0 auto;
 }
 
 .pgto-concluido-header {
